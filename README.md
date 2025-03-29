@@ -58,7 +58,7 @@ Repayment Dataset: Captures repayment details including date_time, customer_id, 
  #### Overall Trend on the profit linegraph: 
 - While there's an overall upward trend from April to June and a huge spike in August, the volatility with the July drop raises concerns about the consistency and predictability of profit.
 - However, the drop in July and the spike in August is attributed to the methodology used in profit calculation
-- The difference in value of monthly repayments to the loans disbursed in july is minimal, resulting in lower profit.
+- The difference in value of monthly repayments to the loans disbursed in July is minimal, resulting in lower profit.
 - In August, the difference is significantly larger, despite the low volume of transactions. This creates the appearance of a sharp profit increase
 
 
@@ -106,7 +106,7 @@ Repayment Dataset: Captures repayment details including date_time, customer_id, 
 
 #### 4.1 Loan Product Features & Disbursement Trends
 
-The loan tenure significantly impacts repayment behavior, with longer tenures (30 days) showing a higher default rate.
+The loan tenure significantly impacts repayment behaviour, with longer tenures (30 days) showing a higher default rate.
 
 Loan fees are fixed ratios based on tenure:
 
@@ -144,7 +144,7 @@ Monthly fluctuations exist
 
 Negative profits align with default spikes, indicating a need for improved credit risk management.
 
-Projected profit for the next 3 months shows a moderate decline, warranting intervention.(Forecasting is based on a large amount of historical data, spanning over 2 years)
+Projected profit for the next 3 months shows a moderate decline, warranting intervention.(Forecasting works best on a large amount of historical data, spanning over 2 years)
 
 
 

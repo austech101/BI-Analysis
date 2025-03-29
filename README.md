@@ -7,7 +7,7 @@ Business Intelligence Analytics
 
 This report presents an analysis of loan disbursement and repayment data to evaluate key lending product features, repayment behaviors, credit risk exposure, and financial performance. 
 The insights derived will inform risk management strategies and product improvements.
-
+#### Tools used: Spark SQL, Python
 ### 2. Analysis Methodology
 
 #### 2.1 Data Sources

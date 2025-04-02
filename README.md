@@ -7,7 +7,9 @@ Business Intelligence Analytics
 
 This report presents an analysis of loan disbursement and repayment data to evaluate key lending product features, repayment behaviors, credit risk exposure, and financial performance. 
 The insights derived will inform risk management strategies and product improvements.
-#### Tools used: Spark SQL, Python
+
+#### Tools used: Spark SQL, Python, PowerBI, 
+
 ### 2. Analysis Methodology
 
 #### 2.1 Data Sources
@@ -83,6 +85,12 @@ Repayment Dataset: Captures repayment details including date_time, customer_id, 
 - Applied Exponential Smoothing Average for trend analysis. (The data spanning 8 months wasn't sufficient for accurate predictions)
 
 - Assumed seasonal variation in repayments.
+
+## Dashboard Overview
+
+![image](https://github.com/user-attachments/assets/c4134ac6-580b-4568-a262-3b32dbaa3b4a)
+
+![image](https://github.com/user-attachments/assets/2e68ac11-2020-43c1-aaf2-977021b99e2f)
 
 #### Portfolio Triggers & Alerts
 

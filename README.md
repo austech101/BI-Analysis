@@ -92,6 +92,9 @@ Repayment Dataset: Captures repayment details including date_time, customer_id, 
 
 ![image](https://github.com/user-attachments/assets/2e68ac11-2020-43c1-aaf2-977021b99e2f)
 
+## Data Normalization Overview
+![Data Normalization Overview](https://github.com/user-attachments/assets/2df90b44-edb0-4754-a58f-f95877bf9e13)
+
 #### Portfolio Triggers & Alerts
 
 - High Default Rate Alert: Triggered if PD > 5%.
